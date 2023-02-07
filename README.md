@@ -3,7 +3,7 @@
 <p>
 Use a Private GitHub repository to save all of your files and perform your analysis.
 </p>
-<h3>Part 1</h3>
+<h4>Part 1</h4>
 
 
 <ul>
@@ -24,7 +24,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 <li>Replace the column names with the correct feature names extracted from the preprocessor.<br><br>
 </li>
 </ul>
-<h3>Explain the Linear Regression Model:</h3>
+<h4>Explain the Linear Regression Model:</h4>
 
 
 <ul>
@@ -50,7 +50,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 </ul>
 </li>
 </ul>
-<h3>Explain the Random Forest Model:</h3>
+<h4>Explain the Random Forest Model:</h4>
 
 
 <ul>
@@ -180,7 +180,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
   
 <li>For each state, calculate the % difference in the Confirmed # of cases vs. the previous date.
   
-<li>Use annotation to answer the question, which month and which state had the highest % increase between September 2020 - December 2022? 
+<li>Use annotation to answer the question, which state had the largest % increase in cases, and between which months did it occur? 
 </li>  
 </ul>
 </li>  
@@ -274,7 +274,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 </p>
 <ul>
 
-<li>All of your files should be saved in a PRIVATE github repository. 
+<li>All of your files should be saved in a PRIVATE GitHub repository. 
 <ul>
  
 <li>Make sure your name has the following format: "First-Last__Belt-Exam-A" (Please make sure you use two underscores after your name).
@@ -292,7 +292,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 <li><strong>Email a backup submission to your instructor.</strong>
 </li>
 </ul>
-<h3>Notes:</h3>
+<h4>Notes:</h4>
 
 
 <ul>
