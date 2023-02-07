@@ -1,11 +1,4 @@
 # data-viz-mock-belt-exam
- 
-<!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 1 -->
-
-
 
 <p>
 Use a Private GitHub repository to save all of your files and perform your analysis.
@@ -41,9 +34,9 @@ Use a Private GitHub repository to save all of your files and perform your analy
 <li>Change the pandas option for float format to display the coefficients with pandas in a readable form: 
 <ul>
  
-<li>excomma separator for thousands
+<li> separator for thousands
  
-<li>and 2 decimal places.
+<li>2 decimal places.
 </li> 
 </ul>
 
@@ -106,7 +99,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 </li>  
 </ul>
  
-<li>The dates in the Date column should be formatted as 4-digit-year 2-digit-month 2-digit-day (e.g. “2020-01-31”)
+<li>Convert the Date column to a Datetime index.
  
 <li>Set the Date column as the index
 </li> 
@@ -121,7 +114,9 @@ Use a Private GitHub repository to save all of your files and perform your analy
 <li> 'New York', "New Jersey", "Pennsylvania", 'Delaware', 'Rhode Island', 'Maryland', "Virginia", "North Carolina"
 </li>  
 </ul>
-</li>  
+ 
+<li>Keep all data from 05/2020 to the present.
+</li> 
 </ul>
 
 <li>Save the processed data as a  .csv file in a “Data” folder inside your private repo, name the csv “Data/data-for-tableau.csv”
@@ -138,10 +133,8 @@ Use a Private GitHub repository to save all of your files and perform your analy
 
 <li>Create a new tableau workbook and load the “data-for-tableau.csv” from part 2.
 
-<li>Convert the FIPs field (a unique identifier for counties) to string data type.  
+<li>Change FIPS to a Dimension. This is a unique numeric identifier for counties. 
 <ul>
- 
-<li>Then change FIPS to a Dimension.
  
 <li>Finally, assign it a Geographic Role > County.
 </li> 
@@ -187,11 +180,17 @@ Use a Private GitHub repository to save all of your files and perform your analy
   
 <li>For each state, calculate the % difference in the Confirmed # of cases vs. the previous date.
   
-<li>Use annotation to answer the question: which state had the largest % increase in Cases between September 2020 and December 2022?<strong><br></strong>
+<li>Use annotation to answer the question, which month and which state had the highest % increase between September 2020 - December 2022? 
 </li>  
 </ul>
+</li>  
+</ul>
+<p>
+<strong><br></strong>
+</p> 
+<ul>
  
-<li>Story Point 3) A highlight table of the 20 Counties with Most Cases.  
+<li>Story Point 3) A highlight table of the 20 Counties with the Most Cases.  
 <ul>
   
 <li>Include the following columns:   
@@ -262,7 +261,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 </ul>
  
 <li>Your setting should match the screenshot below:<br><br>
-<img src="Images/share settings.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
 
 </li> 
 </ul>
@@ -286,7 +285,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 
 <li>Make sure that your data is included in your repo as well (joblib and csv’s). 
 
-<li>Download your final repository as a zip file on github.com (not from Github Desktop).
+<li>Download your final repository as a zip file on github.com (not from GitHub Desktop).
 
 <li>Submit the single zipped file.
 
