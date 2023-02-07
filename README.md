@@ -1,9 +1,10 @@
 # data-viz-mock-belt-exam
 
+
 <p>
 Use a Private GitHub repository to save all of your files and perform your analysis.
 </p>
-<h4>Part 1</h4>
+<h3>Part 1</h3>
 
 
 <ul>
@@ -24,7 +25,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 <li>Replace the column names with the correct feature names extracted from the preprocessor.<br><br>
 </li>
 </ul>
-<h4>Explain the Linear Regression Model:</h4>
+<h3>Explain the Linear Regression Model:</h3>
 
 
 <ul>
@@ -50,7 +51,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 </ul>
 </li>
 </ul>
-<h4>Explain the Random Forest Model:</h4>
+<h3>Explain the Random Forest Model:</h3>
 
 
 <ul>
@@ -232,7 +233,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
   
 <li>Color your visualization by the sum of Confirmed cases
   
-<li>Include Province State, and FIPS fields in the tooltip.
+<li>Add the UID field to the tooltip.
   
 <li>Change the Style of the background map layer to Dark.
 <ul>
@@ -292,7 +293,7 @@ Use a Private GitHub repository to save all of your files and perform your analy
 <li><strong>Email a backup submission to your instructor.</strong>
 </li>
 </ul>
-<h4>Notes:</h4>
+<h3>Notes:</h3>
 
 
 <ul>
